@@ -9,8 +9,13 @@ Welcome to the Virtual Zoltar Program where you can get psychic reads for all as
 3. Get your readings :)
 
 ## Example Run
-1. 
-
+1. Enter the category of problem, and numbers.
+![main image](main.png)
+2. When the Zoltar presents the cards
+![cards image](cards-closed.png)
+3. Flip the cards
+![cards flipped image](cards-open.png)
+4. And see your results on the terminal window!
 ```Your cards are:  The_Hermit , The_Emperor and Wheel_of_Fortune
 
 Your past holds:  
